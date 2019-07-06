@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'Material_35',
+      parameters: [
+        {
+          baseColor: 'Material_35_baseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/models/depth_drone.obj',
+    name: 'depth_drone',
+    recenter: 'root',
+    scale: 3.1000000000000001e-05,
+  },
+  samplers: [
+    {
+      file: 'sampledata/models\\Material_35_baseColor.jpg',
+      name: 'Material_35_baseColor',
+      pipeline_name: 'Material_35_baseColor.jpg',
+    },
+  ],
+  version: '0.54:2',
+}

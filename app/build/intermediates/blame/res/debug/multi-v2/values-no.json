@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\UB\\Sem2\\CSE611 - Project\\rmslab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-no\\values-no.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sidha\\.gradle\\caches\\transforms-2\\files-2.1\\f706b3f08f29dc1d9f9d35f75e9b086d\\res\\values-no\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,288,384,489",
+                        "endColumns": "46,50,95,104,64",
+                        "endOffsets": "236,287,383,488,553"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,261,370",
+                        "endColumns": "50,54,99,108,68",
+                        "endOffsets": "101,156,256,365,434"
+                    }
+                }
+            ]
+        }
+    ]
+}

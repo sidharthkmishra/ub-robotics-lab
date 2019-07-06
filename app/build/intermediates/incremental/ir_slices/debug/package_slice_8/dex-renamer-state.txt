@@ -1,0 +1,4 @@
+#Thu May 02 03:41:18 EDT 2019
+base.0=C\:\\UB\\Sem2\\CSE611 - Project\\rmslab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
